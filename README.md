@@ -17,5 +17,5 @@ Current Version: 0.01
 
 Package versions:
 
-jQuery 1.8.3
-Flat-UI 2.1.1
+- jQuery 1.8.3
+- Flat-UI 2.1.1
