@@ -17,5 +17,6 @@ Current Version: 0.01
 
 Package versions:
 
+- Bootstrap 3.0.2
 - jQuery 1.8.3
 - Flat-UI 2.1.1
