@@ -11,11 +11,11 @@ A live demo is available on our [website](http://demo.goodapplemedia.com/AppleCS
 
 ![screenshot](https://raw.github.com/andyfrith/Animate/master/media/AnimateScreenshot.png)
 
-Version Information
+## Version Information
 
 Current Version: 0.01
 
-Package versions:
+### Package versions:
 
 - Bootstrap 3.0.2
 - jQuery 1.8.3
