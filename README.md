@@ -3,9 +3,6 @@
 ## Animate is an application demo utilizing Twitter Bootstrap, Flat UI, JQuery, and CSS3.
 
 Twitter Bootstrap is utilized as the front-end framework. Flat UI design framework is used for its flat-style aesthetics. JQuery is used to initiate animations. CSS3 @keyframes rules are applied to create animations.
-## Live demo
-
-A live demo is available on our [website](http://demo.goodapplemedia.com/AppleCSS3Animate.html)
 
 ## Screenshot
 
